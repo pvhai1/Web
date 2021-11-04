@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[*Test Runner]]>
+    </line>
+    <line>
+      <![CDATA[    11-04-2021 11:09:05 |*** Step 01 ***| Change currency unit : VND]]>
+    </line>
+    <line>
+      <![CDATA[    11-04-2021 11:09:15 |*** Step 02 ***| Enter searching on Amazon : iPhone 11]]>
+    </line>
+    <line>
+      <![CDATA[    11-04-2021 11:09:20 |*** Step 03 ***| Get all products on Amazon after searching]]>
+    </line>
+    <line>
+      <![CDATA[    11-04-2021 11:09:31 |*** Step 04 ***| Open Ebay : https://www.ebay.com/]]>
+    </line>
+    <line>
+      <![CDATA[    11-04-2021 11:09:33 |*** Step 05 ***| Enter searching on Ebay : iPhone 11]]>
+    </line>
+    <line>
+      <![CDATA[    11-04-2021 11:09:36 |*** Step 06 ***| Get all products on Amazon after searching]]>
+    </line>
+    <line>
+      <![CDATA[    11-04-2021 11:09:40 |*** Step 07 ***| Gen HTML File Data Statistics]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-11-04T11:09:00 ICT" name="Default suite" finished-at="2021-11-04T11:09:44 ICT" duration-ms="44394">
+    <groups>
+    </groups>
+    <test started-at="2021-11-04T11:09:00 ICT" name="Default test" finished-at="2021-11-04T11:09:44 ICT" duration-ms="44394">
+      <class name="testcase.TC_01_Demo">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testcase.TC_01_Demo@42530531]" started-at="2021-11-04T11:09:00 ICT" name="beforeSuite" finished-at="2021-11-04T11:09:00 ICT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testcase.TC_01_Demo@42530531]" started-at="2021-11-04T11:09:00 ICT" name="beforeTest" finished-at="2021-11-04T11:09:00 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testcase.TC_01_Demo@42530531]" started-at="2021-11-04T11:09:00 ICT" name="beforeClass" finished-at="2021-11-04T11:09:05 ICT" duration-ms="5288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcase.TC_01_Demo@42530531]" started-at="2021-11-04T11:09:05 ICT" name="beforeMethod" finished-at="2021-11-04T11:09:05 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testRunner()[pri:0, instance:testcase.TC_01_Demo@42530531]" started-at="2021-11-04T11:09:05 ICT" name="testRunner" finished-at="2021-11-04T11:09:40 ICT" duration-ms="34886" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[*Test Runner]]>
+            </line>
+            <line>
+              <![CDATA[    11-04-2021 11:09:05 |*** Step 01 ***| Change currency unit : VND]]>
+            </line>
+            <line>
+              <![CDATA[    11-04-2021 11:09:15 |*** Step 02 ***| Enter searching on Amazon : iPhone 11]]>
+            </line>
+            <line>
+              <![CDATA[    11-04-2021 11:09:20 |*** Step 03 ***| Get all products on Amazon after searching]]>
+            </line>
+            <line>
+              <![CDATA[    11-04-2021 11:09:31 |*** Step 04 ***| Open Ebay : https://www.ebay.com/]]>
+            </line>
+            <line>
+              <![CDATA[    11-04-2021 11:09:33 |*** Step 05 ***| Enter searching on Ebay : iPhone 11]]>
+            </line>
+            <line>
+              <![CDATA[    11-04-2021 11:09:36 |*** Step 06 ***| Get all products on Amazon after searching]]>
+            </line>
+            <line>
+              <![CDATA[    11-04-2021 11:09:40 |*** Step 07 ***| Gen HTML File Data Statistics]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testRunner -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcase.TC_01_Demo@42530531]" started-at="2021-11-04T11:09:40 ICT" name="afterMethod" finished-at="2021-11-04T11:09:40 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testcase.TC_01_Demo@42530531]" started-at="2021-11-04T11:09:40 ICT" name="afterClass" finished-at="2021-11-04T11:09:44 ICT" duration-ms="4125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testcase.TC_01_Demo@42530531]" started-at="2021-11-04T11:09:44 ICT" name="afterTest" finished-at="2021-11-04T11:09:44 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testcase.TC_01_Demo@42530531]" started-at="2021-11-04T11:09:44 ICT" name="afterSuite" finished-at="2021-11-04T11:09:44 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcase.TC_01_Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
